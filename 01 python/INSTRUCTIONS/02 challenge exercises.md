@@ -47,7 +47,3 @@ Business Logic:
 E.g.  sending a POST /rock (or json payload) should return a 200 OK response with the result in the body
 
 </details>
-
-#### What's next?
-
-Once you've completed the challenges, you may like to review the [additional resources](<./4. additional resources.md>)
