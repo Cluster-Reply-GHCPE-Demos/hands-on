@@ -2,10 +2,7 @@
 
 ### Core exercise
 
-The following exercises will help you get started with GitHub Copilot. You must have completed the [setup instructions](<./1. setup.md>) before starting these steps.
 
-
-<details>
 <summary>1a. Defining resources in a Terraform file</summary>
 
 ### Step by step instructions
@@ -54,44 +51,3 @@ The following exercises will help you get started with GitHub Copilot. You must 
 
 You're now ready to start the [challenge exercises](<./3. challenge exercises.md>) to see how you can leverage the power of GitHub Copilot to solve a number of challenges yourself.
 
-======================== END OF EXERCISE ========================
-
-</details>
-
-
-
- -- or -- 
->IF you chose to use VSCode as your IDE **AND** you chose to install the CodeTour extension, **OR** you're using the Codespaces experience and want to use the CodeTour extension instead of reading through the instructions, you should use the following steps instead.
-
-<details>
-
-<summary>1b. Defining resources in a Terraform file (CodeTour option)</summary>
-
-### Starting the CodeTour
-
-2. Ensure you can see the files in the **Explorer view**. If not, click the **Explorer View icon** on the left sidebar of your editor.
-
-<img width="398" alt="Code Explorer View" src="../assets/Code Explorer View.png">
-
-3. At the bottom of the Explorer view panel, click **CodeTour** to expand the CodeTour panel.
-
-<img width="427" alt="Expand CodeTour panel" src="../assets/Expand CodeTour panel.png">
-
-4. In the CodeTour panel, press the “**Play button**” to start the tour.
-
-<img width="428" alt="Play the CodeTour" src="../assets/Play the CodeTour.png">
-
-5. Your CodeTour will begin! Follow the CodeTour’s steps in the main code window to learn how to use GitHub Copilot.
-
-<img width="674" alt="CodeTour Starts" src="../assets/CodeTour Starts.png">
-
-6. When you've completed each step, click the **Next** button to move to the next step in the CodeTour.
-
-<img width="674" alt="CodeTour Navigation" src="../assets/CodeTour Navigation.png">
-
-7. Work your way through each of the steps in the CodeTour to complete this exercise.
-
-</details>
-
-#### What's next?
-You're now ready to start the [challenge exercises](<./3. challenge exercises.md>) to see how you can leverage the power of GitHub Copilot to solve a number of challenges yourself.

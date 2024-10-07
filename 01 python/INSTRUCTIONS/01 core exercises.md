@@ -5,9 +5,6 @@
 The following exercises will help you get started with GitHub Copilot. You must have completed the [setup instructions](<./1. setup.md>) before starting these steps.
 
 
-<details>
-<summary>1a. Building a Rock Paper Scissors game with GitHub Copilot</summary>
-
 ### Step by step instructions
 
 1. Ensure you can see the files in the **Explorer view**. If not, click the **Explorer View icon** on the left sidebar of your editor.
@@ -63,47 +60,4 @@ Here's an example of what the completed game might look like.
 
 >Hopefully your Paper, Rock, Scissors game is working! Remember, GitHub Copilot is probabilistic so you may not get the exact same code suggestions as we did. If you're not happy with the suggestions, you can always press **CTRL + Z** to undo the changes and try again.
 
-You're now ready to start the [challenge exercises](<./3. challenge exercises.md>) to see how you can leverage the power of GitHub Copilot to solve a number of challenges yourself.
-
-======================== END OF EXERCISE ========================
-
-</details>
-
-
-
- -- or -- 
->IF you chose to use VSCode as your IDE **AND** you chose to install the CodeTour extension, **OR** you're using the Codespaces experience and want to use the CodeTour extension instead of reading through the instructions, you should use the following steps instead.
-
-<details>
-
-<summary>1b. Building a Rock Paper Scissors game with GitHub Copilot (CodeTour option)</summary>
-
-### Starting the CodeTour
-
-1. Ensure you can see the files in the **Explorer view**. If not, click the **Explorer View icon** on the left sidebar of your editor.
-
-<img width="398" alt="Code Explorer View" src="../assets/Code Explorer View.png">
-
-2. At the bottom of the Explorer view panel, click **CodeTour** to expand the CodeTour panel.
-
-<img width="427" alt="Expand CodeTour panel" src="../assets/Expand CodeTour panel.png">
-
-
-3. In the CodeTour panel, press the “**Play button**” to start the tour.
-
-<img width="428" alt="Play the CodeTour" src="../assets/Play the CodeTour.png">
-
-4. Your CodeTour will begin! Follow the CodeTour’s steps in the main code window to learn how to use GitHub Copilot.
-
-<img width="674" alt="CodeTour Starts" src="../assets/CodeTour Starts.png">
-
-5. When you've completed each step, click the **Next** button to move to the next step in the CodeTour.
-
-<img width="674" alt="CodeTour Navigation" src="../assets/CodeTour Navigation.png">
-
-6. Work your way through each of the steps in the CodeTour to complete this exercise.
-
-</details>
-
-#### What's next?
 You're now ready to start the [challenge exercises](<./3. challenge exercises.md>) to see how you can leverage the power of GitHub Copilot to solve a number of challenges yourself.

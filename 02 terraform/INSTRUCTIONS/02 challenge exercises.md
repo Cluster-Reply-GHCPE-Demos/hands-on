@@ -45,8 +45,3 @@ Try creating a new file and writing a Terraform script and see what suggestions 
 >:bulb: tfsec is preinstalled in the Codespaces environment. If you are not using the Codespaces environment, you will need to visit https://aquasecurity.github.io/tfsec/v1.28.1/ to install the tool locally.
 - In VSCode, in the **terminal** panel, enter `tfsec` to run the tool against the terraform file. Depending on any changes you've made, there will likely be a number of issues identified. It's important to realise that GitHub Copilot's output (or any generated output for that matter) should always be reviewed and verified. Your existing processes should be followed to ensure that any changes are reviewed and approved before being merged into your main branch.
 </details>
-
-
-#### What's next?
-
-Once you've completed the challenges, you may like to review the [additional resources](<./4. additional resources.md>) to learn more about GitHub Copilot and how it can help you in your day to day work.
