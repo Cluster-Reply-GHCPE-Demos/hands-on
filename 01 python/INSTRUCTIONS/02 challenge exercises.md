@@ -47,3 +47,13 @@ Business Logic:
 E.g.  sending a POST /rock (or json payload) should return a 200 OK response with the result in the body
 
 </details>
+
+<details>
+<summary>Challenge #4 - Running Unit Tests via GitHub Workflow</summary>
+
+### Running Unit Tests via GitHub Workflow
+
+- Create a new GitHub Workflow to run the Unit Tests
+E.g. a GitHub Workflow triggers on a new push on main and runs all Python Unit Tests
+
+</details>
